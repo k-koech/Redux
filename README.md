@@ -1,5 +1,7 @@
 ## Redux
-Learn redux with JS and React
+ - Learn redux with JS and React
+ - It comes with redux toolkit
 
 ### Refer to official documentation in 
- - [Official Dumentation]()
+ - [Redux Official Dumentation](https://redux.js.org/introduction/getting-started)
+ - [Redux Toolkit](https://redux-toolkit.js.org/)
